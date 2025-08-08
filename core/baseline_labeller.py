@@ -37,7 +37,26 @@ def collect_last_words(song):
 # 3. Generate Pairs
 ### -------------------------------
 def generate_pairs(last_words):
-    
+    pairs = []
+    for i in range(0, len(last_words)):
+        for j in range(i+1, len(last_words)):
+            if((last_words[i]['rhyme_id']) == (last_words[j]['rhyme_id'])):
+                label = 1
+            else:
+                label = 0
+            pairs.append({
+                "word1_text": last_words[i]['text'],
+                "word1_phonemes": last_words[i]['phonemes'],
+                "word1_syllables": last_words[i]['syllables'],
+                "word1_stress": last_words[i]['stress'],
+                "word2_text": last_words[j]['text'],
+                "word2_phonemes": last_words[j]['phonemes'],
+                "word2_syllables": last_words[j]['syllables'],
+                "word2_stress": last_words[j]['stress'],
+                "label": label
+            })
+
+    return pairs
 
 ### -------------------------------
 # 4. Compute Features
