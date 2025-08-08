@@ -49,10 +49,14 @@ def generate_pairs(last_words):
                 "word1_phonemes": last_words[i]['phonemes'],
                 "word1_syllables": last_words[i]['syllables'],
                 "word1_stress": last_words[i]['stress'],
+                "word1_rhyme_ending": last_words[i]['rhyme_ending'],
+
                 "word2_text": last_words[j]['text'],
                 "word2_phonemes": last_words[j]['phonemes'],
                 "word2_syllables": last_words[j]['syllables'],
                 "word2_stress": last_words[j]['stress'],
+                "word2_rhyme_ending": last_words[j]['rhyme_ending'],
+
                 "label": label
             })
 
@@ -61,8 +65,28 @@ def generate_pairs(last_words):
 ### -------------------------------
 # 4. Compute Features
 ### -------------------------------
-def compute_features(word1, word2):
-    
+def compute_features(pairs):
+    features = []
+    for pair in pairs:
+        w1 = pair['word1_rhyme_ending']
+        w2 = pair['word2_rhyme_ending']
+        if(w1==w2):
+            exact_match = 1
+        else:
+            exact_match = 0
+        ending_length_min = min(len(w1), len(w2))
+
+        #ADD PHENOME EDIT DISTANCE
+        #ADD STRESS PATTERN MATCH
+        #ADD SYLLABLE COUNT DIFFERENCE FOR BETTER NUANCES
+        
+        features.append({
+            'exact_match': exact_match,
+            'ending_length_min': ending_length_min,
+            'label': pair['label']
+        })
+        
+
 
 ### -------------------------------
 # 5. Store in List
