@@ -1,0 +1,8153 @@
+{
+  "artist": "kendrick lamar",
+  "title": "DNA.",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "i got i got i got i got—",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        }
+      ],
+      "rhyme_id": "A"
+    },
+    {
+      "line_id": 1,
+      "text": "loyalty got royalty inside my dna",
+      "words": [
+        {
+          "text": "loyalty",
+          "phonemes": [
+            "L",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "royalty",
+          "phonemes": [
+            "R",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "B"
+    },
+    {
+      "line_id": 2,
+      "text": "cocaine quarter piece got war and peace inside my dna",
+      "words": [
+        {
+          "text": "cocaine",
+          "phonemes": [
+            "K",
+            "OW0",
+            "K",
+            "EY1",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EY1 N"
+        },
+        {
+          "text": "quarter",
+          "phonemes": [
+            "K",
+            "W",
+            "AO1",
+            "R",
+            "T",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AO1 R T ER0"
+        },
+        {
+          "text": "piece",
+          "phonemes": [
+            "P",
+            "IY1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 S"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "war",
+          "phonemes": [
+            "W",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "peace",
+          "phonemes": [
+            "P",
+            "IY1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 S"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "C"
+    },
+    {
+      "line_id": 3,
+      "text": "i got power poison pain and joy inside my dna",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "power",
+          "phonemes": [
+            "P",
+            "AW1",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AW1 ER0"
+        },
+        {
+          "text": "poison",
+          "phonemes": [
+            "P",
+            "OY1",
+            "Z",
+            "AH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OY1 Z AH0 N"
+        },
+        {
+          "text": "pain",
+          "phonemes": [
+            "P",
+            "EY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 N"
+        },
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "joy",
+          "phonemes": [
+            "JH",
+            "OY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OY1"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "D"
+    },
+    {
+      "line_id": 4,
+      "text": "i got hustle though ambition flow inside my dna",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "hustle",
+          "phonemes": [
+            "HH",
+            "AH1",
+            "S",
+            "AH0",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 S AH0 L"
+        },
+        {
+          "text": "though",
+          "phonemes": [
+            "DH",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "ambition",
+          "phonemes": [
+            "AE0",
+            "M",
+            "B",
+            "IH1",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "IH1 SH AH0 N"
+        },
+        {
+          "text": "flow",
+          "phonemes": [
+            "F",
+            "L",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "E"
+    },
+    {
+      "line_id": 5,
+      "text": "i was born like this since one like this immaculate conception",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "was",
+          "phonemes": [
+            "W",
+            "AA1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 Z"
+        },
+        {
+          "text": "born",
+          "phonemes": [
+            "B",
+            "AO1",
+            "R",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R N"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "since",
+          "phonemes": [
+            "S",
+            "IH1",
+            "N",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 N S"
+        },
+        {
+          "text": "one",
+          "phonemes": [
+            "W",
+            "AH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "immaculate",
+          "phonemes": [
+            "IH2",
+            "M",
+            "AE1",
+            "K",
+            "Y",
+            "UW0",
+            "L",
+            "IH0",
+            "T"
+          ],
+          "syllables": 4,
+          "stress": "2100",
+          "rhyme_ending": "AE1 K Y UW0 L IH0 T"
+        },
+        {
+          "text": "conception",
+          "phonemes": [
+            "K",
+            "AH0",
+            "N",
+            "S",
+            "EH1",
+            "P",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "EH1 P SH AH0 N"
+        }
+      ],
+      "rhyme_id": "F"
+    },
+    {
+      "line_id": 6,
+      "text": "i transform like this perform like this was yeshua new weapon",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "transform",
+          "phonemes": [
+            "T",
+            "R",
+            "AE0",
+            "N",
+            "S",
+            "F",
+            "AO1",
+            "R",
+            "M"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AO1 R M"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "perform",
+          "phonemes": [
+            "P",
+            "ER0",
+            "F",
+            "AO1",
+            "R",
+            "M"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AO1 R M"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "was",
+          "phonemes": [
+            "W",
+            "AA1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 Z"
+        },
+        {
+          "text": "yeshua",
+          "phonemes": [
+            "YESHUA"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "UA"
+        },
+        {
+          "text": "new",
+          "phonemes": [
+            "N",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "weapon",
+          "phonemes": [
+            "W",
+            "EH1",
+            "P",
+            "AH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 P AH0 N"
+        }
+      ],
+      "rhyme_id": "F"
+    },
+    {
+      "line_id": 7,
+      "text": "i don't contemplate i meditate then off your fucking head",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "don't",
+          "phonemes": [
+            "D",
+            "OW1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N T"
+        },
+        {
+          "text": "contemplate",
+          "phonemes": [
+            "K",
+            "AA1",
+            "N",
+            "T",
+            "AH0",
+            "M",
+            "P",
+            "L",
+            "EY2",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "EY2 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "meditate",
+          "phonemes": [
+            "M",
+            "EH1",
+            "D",
+            "AH0",
+            "T",
+            "EY2",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "EY2 T"
+        },
+        {
+          "text": "then",
+          "phonemes": [
+            "DH",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "off",
+          "phonemes": [
+            "AO1",
+            "F"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 F"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "fucking",
+          "phonemes": [
+            "F",
+            "AH1",
+            "K",
+            "IH0",
+            "NG"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 K IH0 NG"
+        },
+        {
+          "text": "head",
+          "phonemes": [
+            "HH",
+            "EH1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 D"
+        }
+      ],
+      "rhyme_id": "G"
+    },
+    {
+      "line_id": 8,
+      "text": "this that put-the-kids-to-bed",
+      "words": [
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "put-the-kids-to-bed",
+          "phonemes": [
+            "PUT-THE-KIDS-TO-BED"
+          ],
+          "syllables": 5,
+          "stress": "",
+          "rhyme_ending": "ED"
+        }
+      ],
+      "rhyme_id": "H"
+    },
+    {
+      "line_id": 9,
+      "text": "this that i got i got i got i got—",
+      "words": [
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        }
+      ],
+      "rhyme_id": "A"
+    },
+    {
+      "line_id": 10,
+      "text": "realness i just kill shit ’cause it's in my dna",
+      "words": [
+        {
+          "text": "realness",
+          "phonemes": [
+            "REALNESS"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "SS"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "just",
+          "phonemes": [
+            "JH",
+            "AH1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 S T"
+        },
+        {
+          "text": "kill",
+          "phonemes": [
+            "K",
+            "IH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 L"
+        },
+        {
+          "text": "shit",
+          "phonemes": [
+            "SH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "cause",
+          "phonemes": [
+            "K",
+            "AA1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 Z"
+        },
+        {
+          "text": "it's",
+          "phonemes": [
+            "IH1",
+            "T",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T S"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "I"
+    },
+    {
+      "line_id": 11,
+      "text": "i got millions i got riches buildin' in my dna",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "millions",
+          "phonemes": [
+            "M",
+            "IH1",
+            "L",
+            "Y",
+            "AH0",
+            "N",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 L Y AH0 N Z"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "riches",
+          "phonemes": [
+            "R",
+            "IH1",
+            "CH",
+            "AH0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 CH AH0 Z"
+        },
+        {
+          "text": "buildin",
+          "phonemes": [
+            "BUILDIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "J"
+    },
+    {
+      "line_id": 12,
+      "text": "i got dark i got evil that rot inside my dna",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "dark",
+          "phonemes": [
+            "D",
+            "AA1",
+            "R",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 R K"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "evil",
+          "phonemes": [
+            "IY1",
+            "V",
+            "AH0",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IY1 V AH0 L"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "rot",
+          "phonemes": [
+            "R",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "K"
+    },
+    {
+      "line_id": 13,
+      "text": "i got off i got troublesome heart inside my dna",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "off",
+          "phonemes": [
+            "AO1",
+            "F"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 F"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "troublesome",
+          "phonemes": [
+            "T",
+            "R",
+            "AH1",
+            "B",
+            "AH0",
+            "L",
+            "S",
+            "AH0",
+            "M"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "AH1 B AH0 L S AH0 M"
+        },
+        {
+          "text": "heart",
+          "phonemes": [
+            "HH",
+            "AA1",
+            "R",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 R T"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "L"
+    },
+    {
+      "line_id": 14,
+      "text": "i just win again then win again like wimbledon i serve",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "just",
+          "phonemes": [
+            "JH",
+            "AH1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 S T"
+        },
+        {
+          "text": "win",
+          "phonemes": [
+            "W",
+            "IH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 N"
+        },
+        {
+          "text": "again",
+          "phonemes": [
+            "AH0",
+            "G",
+            "EH1",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "then",
+          "phonemes": [
+            "DH",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "win",
+          "phonemes": [
+            "W",
+            "IH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 N"
+        },
+        {
+          "text": "again",
+          "phonemes": [
+            "AH0",
+            "G",
+            "EH1",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "wimbledon",
+          "phonemes": [
+            "W",
+            "IH1",
+            "M",
+            "B",
+            "AH0",
+            "L",
+            "D",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "IH1 M B AH0 L D AH0 N"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "serve",
+          "phonemes": [
+            "S",
+            "ER1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 V"
+        }
+      ],
+      "rhyme_id": "M"
+    },
+    {
+      "line_id": 15,
+      "text": "yeah that’s him again the sound that engine in is like a bird",
+      "words": [
+        {
+          "text": "yeah",
+          "phonemes": [
+            "Y",
+            "AE1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "s",
+          "phonemes": [
+            "EH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 S"
+        },
+        {
+          "text": "him",
+          "phonemes": [
+            "HH",
+            "IH1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 M"
+        },
+        {
+          "text": "again",
+          "phonemes": [
+            "AH0",
+            "G",
+            "EH1",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "sound",
+          "phonemes": [
+            "S",
+            "AW1",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1 N D"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "engine",
+          "phonemes": [
+            "EH1",
+            "N",
+            "JH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 N JH AH0 N"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "bird",
+          "phonemes": [
+            "B",
+            "ER1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 D"
+        }
+      ],
+      "rhyme_id": "N"
+    },
+    {
+      "line_id": 16,
+      "text": "you see fireworks and corvette tire skrrt the boulevard",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "see",
+          "phonemes": [
+            "S",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "fireworks",
+          "phonemes": [
+            "F",
+            "AY1",
+            "R",
+            "W",
+            "ER2",
+            "K",
+            "S"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "ER2 K S"
+        },
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "corvette",
+          "phonemes": [
+            "K",
+            "AO0",
+            "R",
+            "V",
+            "EH1",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 T"
+        },
+        {
+          "text": "tire",
+          "phonemes": [
+            "T",
+            "AY1",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AY1 ER0"
+        },
+        {
+          "text": "skrrt",
+          "phonemes": [
+            "SKRRT"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "RT"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "boulevard",
+          "phonemes": [
+            "B",
+            "UH1",
+            "L",
+            "AH0",
+            "V",
+            "AA2",
+            "R",
+            "D"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "AA2 R D"
+        }
+      ],
+      "rhyme_id": "O"
+    },
+    {
+      "line_id": 17,
+      "text": "i know how you work i know just who you are",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "know",
+          "phonemes": [
+            "N",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "how",
+          "phonemes": [
+            "HH",
+            "AW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "work",
+          "phonemes": [
+            "W",
+            "ER1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 K"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "know",
+          "phonemes": [
+            "N",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "just",
+          "phonemes": [
+            "JH",
+            "AH1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 S T"
+        },
+        {
+          "text": "who",
+          "phonemes": [
+            "HH",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "are",
+          "phonemes": [
+            "AA1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 R"
+        }
+      ],
+      "rhyme_id": "P"
+    },
+    {
+      "line_id": 18,
+      "text": "see you's a you's a you's a—",
+      "words": [
+        {
+          "text": "see",
+          "phonemes": [
+            "S",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "you's",
+          "phonemes": [
+            "YOU'S"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "'S"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "you's",
+          "phonemes": [
+            "YOU'S"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "'S"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "you's",
+          "phonemes": [
+            "YOU'S"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "'S"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        }
+      ],
+      "rhyme_id": "Q"
+    },
+    {
+      "line_id": 19,
+      "text": "bitch your hormones prolly switch inside your dna",
+      "words": [
+        {
+          "text": "bitch",
+          "phonemes": [
+            "B",
+            "IH1",
+            "CH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 CH"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "hormones",
+          "phonemes": [
+            "HH",
+            "AO1",
+            "R",
+            "M",
+            "OW2",
+            "N",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "OW2 N Z"
+        },
+        {
+          "text": "prolly",
+          "phonemes": [
+            "PROLLY"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "LY"
+        },
+        {
+          "text": "switch",
+          "phonemes": [
+            "S",
+            "W",
+            "IH1",
+            "CH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 CH"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "R"
+    },
+    {
+      "line_id": 20,
+      "text": "problem is all that sucker shit inside your dna",
+      "words": [
+        {
+          "text": "problem",
+          "phonemes": [
+            "P",
+            "R",
+            "AA1",
+            "B",
+            "L",
+            "AH0",
+            "M"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 B L AH0 M"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "all",
+          "phonemes": [
+            "AO1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 L"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "sucker",
+          "phonemes": [
+            "S",
+            "AH1",
+            "K",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 K ER0"
+        },
+        {
+          "text": "shit",
+          "phonemes": [
+            "SH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "S"
+    },
+    {
+      "line_id": 21,
+      "text": "daddy prolly snitched heritage inside your dna",
+      "words": [
+        {
+          "text": "daddy",
+          "phonemes": [
+            "D",
+            "AE1",
+            "D",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 D IY0"
+        },
+        {
+          "text": "prolly",
+          "phonemes": [
+            "PROLLY"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "LY"
+        },
+        {
+          "text": "snitched",
+          "phonemes": [
+            "SNITCHED"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "ED"
+        },
+        {
+          "text": "heritage",
+          "phonemes": [
+            "HH",
+            "EH1",
+            "R",
+            "AH0",
+            "T",
+            "AH0",
+            "JH"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 R AH0 T AH0 JH"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "T"
+    },
+    {
+      "line_id": 22,
+      "text": "backbone don't exist born outside a jellyfish i gauge",
+      "words": [
+        {
+          "text": "backbone",
+          "phonemes": [
+            "B",
+            "AE1",
+            "K",
+            "B",
+            "OW2",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "OW2 N"
+        },
+        {
+          "text": "don't",
+          "phonemes": [
+            "D",
+            "OW1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N T"
+        },
+        {
+          "text": "exist",
+          "phonemes": [
+            "IH0",
+            "G",
+            "Z",
+            "IH1",
+            "S",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "IH1 S T"
+        },
+        {
+          "text": "born",
+          "phonemes": [
+            "B",
+            "AO1",
+            "R",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R N"
+        },
+        {
+          "text": "outside",
+          "phonemes": [
+            "AW1",
+            "T",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "11",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "jellyfish",
+          "phonemes": [
+            "JH",
+            "EH1",
+            "L",
+            "IY0",
+            "F",
+            "IH2",
+            "SH"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "IH2 SH"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "gauge",
+          "phonemes": [
+            "G",
+            "EY1",
+            "JH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 JH"
+        }
+      ],
+      "rhyme_id": "U"
+    },
+    {
+      "line_id": 23,
+      "text": "see my pedigree most definitely don't tolerate the front",
+      "words": [
+        {
+          "text": "see",
+          "phonemes": [
+            "S",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "pedigree",
+          "phonemes": [
+            "P",
+            "EH1",
+            "D",
+            "AH0",
+            "G",
+            "R",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 D AH0 G R IY0"
+        },
+        {
+          "text": "most",
+          "phonemes": [
+            "M",
+            "OW1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 S T"
+        },
+        {
+          "text": "definitely",
+          "phonemes": [
+            "D",
+            "EH1",
+            "F",
+            "AH0",
+            "N",
+            "AH0",
+            "T",
+            "L",
+            "IY0"
+          ],
+          "syllables": 4,
+          "stress": "1000",
+          "rhyme_ending": "EH1 F AH0 N AH0 T L IY0"
+        },
+        {
+          "text": "don't",
+          "phonemes": [
+            "D",
+            "OW1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N T"
+        },
+        {
+          "text": "tolerate",
+          "phonemes": [
+            "T",
+            "AA1",
+            "L",
+            "ER0",
+            "EY2",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "EY2 T"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "front",
+          "phonemes": [
+            "F",
+            "R",
+            "AH1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N T"
+        }
+      ],
+      "rhyme_id": "V"
+    },
+    {
+      "line_id": 24,
+      "text": "shit i've been through prolly offend you this is paula's oldest son",
+      "words": [
+        {
+          "text": "shit",
+          "phonemes": [
+            "SH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "i've",
+          "phonemes": [
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "been",
+          "phonemes": [
+            "B",
+            "IH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 N"
+        },
+        {
+          "text": "through",
+          "phonemes": [
+            "TH",
+            "R",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "prolly",
+          "phonemes": [
+            "PROLLY"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "LY"
+        },
+        {
+          "text": "offend",
+          "phonemes": [
+            "AH0",
+            "F",
+            "EH1",
+            "N",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 N D"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "paula's",
+          "phonemes": [
+            "PAULA'S"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "'S"
+        },
+        {
+          "text": "oldest",
+          "phonemes": [
+            "OW1",
+            "L",
+            "D",
+            "AH0",
+            "S",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OW1 L D AH0 S T"
+        },
+        {
+          "text": "son",
+          "phonemes": [
+            "S",
+            "AH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N"
+        }
+      ],
+      "rhyme_id": "W"
+    },
+    {
+      "line_id": 25,
+      "text": "i know murder conviction burners boosters burglars ballers dead redemption scholars fathers dead with kids",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "know",
+          "phonemes": [
+            "N",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "murder",
+          "phonemes": [
+            "M",
+            "ER1",
+            "D",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 D ER0"
+        },
+        {
+          "text": "conviction",
+          "phonemes": [
+            "K",
+            "AH0",
+            "N",
+            "V",
+            "IH1",
+            "K",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "IH1 K SH AH0 N"
+        },
+        {
+          "text": "burners",
+          "phonemes": [
+            "B",
+            "ER1",
+            "N",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 N ER0 Z"
+        },
+        {
+          "text": "boosters",
+          "phonemes": [
+            "B",
+            "UW1",
+            "S",
+            "T",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "UW1 S T ER0 Z"
+        },
+        {
+          "text": "burglars",
+          "phonemes": [
+            "B",
+            "ER1",
+            "G",
+            "L",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 G L ER0 Z"
+        },
+        {
+          "text": "ballers",
+          "phonemes": [
+            "BALLERS"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "RS"
+        },
+        {
+          "text": "dead",
+          "phonemes": [
+            "D",
+            "EH1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 D"
+        },
+        {
+          "text": "redemption",
+          "phonemes": [
+            "R",
+            "IH0",
+            "D",
+            "EH1",
+            "M",
+            "P",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "EH1 M P SH AH0 N"
+        },
+        {
+          "text": "scholars",
+          "phonemes": [
+            "S",
+            "K",
+            "AA1",
+            "L",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 L ER0 Z"
+        },
+        {
+          "text": "fathers",
+          "phonemes": [
+            "F",
+            "AA1",
+            "DH",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 DH ER0 Z"
+        },
+        {
+          "text": "dead",
+          "phonemes": [
+            "D",
+            "EH1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 D"
+        },
+        {
+          "text": "with",
+          "phonemes": [
+            "W",
+            "IH1",
+            "DH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 DH"
+        },
+        {
+          "text": "kids",
+          "phonemes": [
+            "K",
+            "IH1",
+            "D",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 D Z"
+        }
+      ],
+      "rhyme_id": "X"
+    },
+    {
+      "line_id": 26,
+      "text": "and i wish i was fed forgiveness",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "wish",
+          "phonemes": [
+            "W",
+            "IH1",
+            "SH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 SH"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "was",
+          "phonemes": [
+            "W",
+            "AA1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 Z"
+        },
+        {
+          "text": "fed",
+          "phonemes": [
+            "F",
+            "EH1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 D"
+        },
+        {
+          "text": "forgiveness",
+          "phonemes": [
+            "F",
+            "ER0",
+            "G",
+            "IH1",
+            "V",
+            "N",
+            "AH0",
+            "S"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "IH1 V N AH0 S"
+        }
+      ],
+      "rhyme_id": "Y"
+    },
+    {
+      "line_id": 27,
+      "text": "yeah yeah yeah yeah soldier’s dna i’m a soldier's dna",
+      "words": [
+        {
+          "text": "yeah",
+          "phonemes": [
+            "Y",
+            "AE1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1"
+        },
+        {
+          "text": "yeah",
+          "phonemes": [
+            "Y",
+            "AE1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1"
+        },
+        {
+          "text": "yeah",
+          "phonemes": [
+            "Y",
+            "AE1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1"
+        },
+        {
+          "text": "yeah",
+          "phonemes": [
+            "Y",
+            "AE1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1"
+        },
+        {
+          "text": "soldier",
+          "phonemes": [
+            "S",
+            "OW1",
+            "L",
+            "JH",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OW1 L JH ER0"
+        },
+        {
+          "text": "s",
+          "phonemes": [
+            "EH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 S"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "m",
+          "phonemes": [
+            "EH1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 M"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "soldier's",
+          "phonemes": [
+            "S",
+            "OW1",
+            "L",
+            "JH",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OW1 L JH ER0 Z"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "Z"
+    },
+    {
+      "line_id": 28,
+      "text": "born inside the beast my expertise checked out in second grade",
+      "words": [
+        {
+          "text": "born",
+          "phonemes": [
+            "B",
+            "AO1",
+            "R",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R N"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "beast",
+          "phonemes": [
+            "B",
+            "IY1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 S T"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "expertise",
+          "phonemes": [
+            "EH2",
+            "K",
+            "S",
+            "P",
+            "ER0",
+            "T",
+            "IY1",
+            "Z"
+          ],
+          "syllables": 3,
+          "stress": "201",
+          "rhyme_ending": "IY1 Z"
+        },
+        {
+          "text": "checked",
+          "phonemes": [
+            "CH",
+            "EH1",
+            "K",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 K T"
+        },
+        {
+          "text": "out",
+          "phonemes": [
+            "AW1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1 T"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "second",
+          "phonemes": [
+            "S",
+            "EH1",
+            "K",
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 K AH0 N D"
+        },
+        {
+          "text": "grade",
+          "phonemes": [
+            "G",
+            "R",
+            "EY1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 D"
+        }
+      ],
+      "rhyme_id": "AA"
+    },
+    {
+      "line_id": 29,
+      "text": "when i was nine on sale motel we didn’t have nowhere to stay",
+      "words": [
+        {
+          "text": "when",
+          "phonemes": [
+            "W",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "was",
+          "phonemes": [
+            "W",
+            "AA1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 Z"
+        },
+        {
+          "text": "nine",
+          "phonemes": [
+            "N",
+            "AY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 N"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "sale",
+          "phonemes": [
+            "S",
+            "EY1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 L"
+        },
+        {
+          "text": "motel",
+          "phonemes": [
+            "M",
+            "OW0",
+            "T",
+            "EH1",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 L"
+        },
+        {
+          "text": "we",
+          "phonemes": [
+            "W",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "didn",
+          "phonemes": [
+            "DIDN"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "DN"
+        },
+        {
+          "text": "t",
+          "phonemes": [
+            "T",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "have",
+          "phonemes": [
+            "HH",
+            "AE1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 V"
+        },
+        {
+          "text": "nowhere",
+          "phonemes": [
+            "N",
+            "OW1",
+            "W",
+            "EH2",
+            "R"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "EH2 R"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "stay",
+          "phonemes": [
+            "S",
+            "T",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "AB"
+    },
+    {
+      "line_id": 30,
+      "text": "at twenty-nine i've done so well hit cartwheel in my estate",
+      "words": [
+        {
+          "text": "at",
+          "phonemes": [
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "twenty-nine",
+          "phonemes": [
+            "TWENTY-NINE"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "NE"
+        },
+        {
+          "text": "i've",
+          "phonemes": [
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "done",
+          "phonemes": [
+            "D",
+            "AH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N"
+        },
+        {
+          "text": "so",
+          "phonemes": [
+            "S",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        },
+        {
+          "text": "well",
+          "phonemes": [
+            "W",
+            "EH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 L"
+        },
+        {
+          "text": "hit",
+          "phonemes": [
+            "HH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "cartwheel",
+          "phonemes": [
+            "K",
+            "AA1",
+            "R",
+            "T",
+            "W",
+            "IY2",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "IY2 L"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "estate",
+          "phonemes": [
+            "IH0",
+            "S",
+            "T",
+            "EY1",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EY1 T"
+        }
+      ],
+      "rhyme_id": "AC"
+    },
+    {
+      "line_id": 31,
+      "text": "and i'm gon' shine like i’m supposed to antisocial extrovert",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "i'm",
+          "phonemes": [
+            "AY1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 M"
+        },
+        {
+          "text": "gon",
+          "phonemes": [
+            "GON"
+          ],
+          "syllables": 1,
+          "stress": "",
+          "rhyme_ending": "ON"
+        },
+        {
+          "text": "shine",
+          "phonemes": [
+            "SH",
+            "AY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 N"
+        },
+        {
+          "text": "like",
+          "phonemes": [
+            "L",
+            "AY1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 K"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "m",
+          "phonemes": [
+            "EH1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 M"
+        },
+        {
+          "text": "supposed",
+          "phonemes": [
+            "S",
+            "AH0",
+            "P",
+            "OW1",
+            "Z",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "OW1 Z D"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "antisocial",
+          "phonemes": [
+            "AE2",
+            "N",
+            "T",
+            "IH0",
+            "S",
+            "OW1",
+            "SH",
+            "AH0",
+            "L"
+          ],
+          "syllables": 4,
+          "stress": "2010",
+          "rhyme_ending": "OW1 SH AH0 L"
+        },
+        {
+          "text": "extrovert",
+          "phonemes": [
+            "EH1",
+            "K",
+            "S",
+            "T",
+            "R",
+            "AH0",
+            "V",
+            "ER2",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "ER2 T"
+        }
+      ],
+      "rhyme_id": "AD"
+    },
+    {
+      "line_id": 32,
+      "text": "and excellent mean the extra work",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "excellent",
+          "phonemes": [
+            "EH1",
+            "K",
+            "S",
+            "AH0",
+            "L",
+            "AH0",
+            "N",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 K S AH0 L AH0 N T"
+        },
+        {
+          "text": "mean",
+          "phonemes": [
+            "M",
+            "IY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "extra",
+          "phonemes": [
+            "EH1",
+            "K",
+            "S",
+            "T",
+            "R",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 K S T R AH0"
+        },
+        {
+          "text": "work",
+          "phonemes": [
+            "W",
+            "ER1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 K"
+        }
+      ],
+      "rhyme_id": "AE"
+    },
+    {
+      "line_id": 33,
+      "text": "and absentness what the fuck you heard",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "absentness",
+          "phonemes": [
+            "ABSENTNESS"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "SS"
+        },
+        {
+          "text": "what",
+          "phonemes": [
+            "W",
+            "AH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 T"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "fuck",
+          "phonemes": [
+            "F",
+            "AH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 K"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "heard",
+          "phonemes": [
+            "HH",
+            "ER1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 D"
+        }
+      ],
+      "rhyme_id": "N"
+    },
+    {
+      "line_id": 34,
+      "text": "and pessimists never struck my nerve",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "pessimists",
+          "phonemes": [
+            "P",
+            "EH1",
+            "S",
+            "AH0",
+            "M",
+            "IH0",
+            "S",
+            "T",
+            "S"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 S AH0 M IH0 S T S"
+        },
+        {
+          "text": "never",
+          "phonemes": [
+            "N",
+            "EH1",
+            "V",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 V ER0"
+        },
+        {
+          "text": "struck",
+          "phonemes": [
+            "S",
+            "T",
+            "R",
+            "AH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 K"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "nerve",
+          "phonemes": [
+            "N",
+            "ER1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 V"
+        }
+      ],
+      "rhyme_id": "M"
+    },
+    {
+      "line_id": 35,
+      "text": "and nazareth gonna plead his case",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "nazareth",
+          "phonemes": [
+            "N",
+            "AE1",
+            "Z",
+            "AH0",
+            "R",
+            "IH0",
+            "TH"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "AE1 Z AH0 R IH0 TH"
+        },
+        {
+          "text": "gonna",
+          "phonemes": [
+            "G",
+            "AA1",
+            "N",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 N AH0"
+        },
+        {
+          "text": "plead",
+          "phonemes": [
+            "P",
+            "L",
+            "IY1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 D"
+        },
+        {
+          "text": "his",
+          "phonemes": [
+            "HH",
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "case",
+          "phonemes": [
+            "K",
+            "EY1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 S"
+        }
+      ],
+      "rhyme_id": "AF"
+    },
+    {
+      "line_id": 36,
+      "text": "the reason my power's here on earth",
+      "words": [
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "reason",
+          "phonemes": [
+            "R",
+            "IY1",
+            "Z",
+            "AH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IY1 Z AH0 N"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "power's",
+          "phonemes": [
+            "P",
+            "AW1",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AW1 ER0 Z"
+        },
+        {
+          "text": "here",
+          "phonemes": [
+            "HH",
+            "IY1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 R"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "earth",
+          "phonemes": [
+            "ER1",
+            "TH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 TH"
+        }
+      ],
+      "rhyme_id": "AG"
+    },
+    {
+      "line_id": 37,
+      "text": "salute the truth when the prophet say",
+      "words": [
+        {
+          "text": "salute",
+          "phonemes": [
+            "S",
+            "AH0",
+            "L",
+            "UW1",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "UW1 T"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "truth",
+          "phonemes": [
+            "T",
+            "R",
+            "UW1",
+            "TH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1 TH"
+        },
+        {
+          "text": "when",
+          "phonemes": [
+            "W",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "prophet",
+          "phonemes": [
+            "P",
+            "R",
+            "AA1",
+            "F",
+            "AH0",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 F AH0 T"
+        },
+        {
+          "text": "say",
+          "phonemes": [
+            "S",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "AH"
+    },
+    {
+      "line_id": 38,
+      "text": "i-i got loyalty got royalty inside my dna",
+      "words": [
+        {
+          "text": "i-i",
+          "phonemes": [
+            "I-I"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "-I"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "loyalty",
+          "phonemes": [
+            "L",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "royalty",
+          "phonemes": [
+            "R",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "AI"
+    },
+    {
+      "line_id": 39,
+      "text": "this is why i say that hip hop has done more damage to young african americans than racism in recent years",
+      "words": [
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "why",
+          "phonemes": [
+            "W",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "say",
+          "phonemes": [
+            "S",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        },
+        {
+          "text": "that",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "hip",
+          "phonemes": [
+            "HH",
+            "IH1",
+            "P"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 P"
+        },
+        {
+          "text": "hop",
+          "phonemes": [
+            "HH",
+            "AA1",
+            "P"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 P"
+        },
+        {
+          "text": "has",
+          "phonemes": [
+            "HH",
+            "AE1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 Z"
+        },
+        {
+          "text": "done",
+          "phonemes": [
+            "D",
+            "AH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N"
+        },
+        {
+          "text": "more",
+          "phonemes": [
+            "M",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "damage",
+          "phonemes": [
+            "D",
+            "AE1",
+            "M",
+            "AH0",
+            "JH"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 M AH0 JH"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "young",
+          "phonemes": [
+            "Y",
+            "AH1",
+            "NG"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 NG"
+        },
+        {
+          "text": "african",
+          "phonemes": [
+            "AE1",
+            "F",
+            "R",
+            "AH0",
+            "K",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "AE1 F R AH0 K AH0 N"
+        },
+        {
+          "text": "americans",
+          "phonemes": [
+            "AH0",
+            "M",
+            "EH1",
+            "R",
+            "AH0",
+            "K",
+            "AH0",
+            "N",
+            "Z"
+          ],
+          "syllables": 4,
+          "stress": "0100",
+          "rhyme_ending": "EH1 R AH0 K AH0 N Z"
+        },
+        {
+          "text": "than",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 N"
+        },
+        {
+          "text": "racism",
+          "phonemes": [
+            "R",
+            "EY1",
+            "S",
+            "IH2",
+            "Z",
+            "AH0",
+            "M"
+          ],
+          "syllables": 3,
+          "stress": "120",
+          "rhyme_ending": "IH2 Z AH0 M"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "recent",
+          "phonemes": [
+            "R",
+            "IY1",
+            "S",
+            "AH0",
+            "N",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IY1 S AH0 N T"
+        },
+        {
+          "text": "years",
+          "phonemes": [
+            "Y",
+            "IH1",
+            "R",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 R Z"
+        }
+      ],
+      "rhyme_id": "AJ"
+    },
+    {
+      "line_id": 40,
+      "text": "i-i got loyalty got royalty inside my dna",
+      "words": [
+        {
+          "text": "i-i",
+          "phonemes": [
+            "I-I"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "-I"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "loyalty",
+          "phonemes": [
+            "L",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "royalty",
+          "phonemes": [
+            "R",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "AK"
+    },
+    {
+      "line_id": 41,
+      "text": "i live a better life i'm rollin' several dice fuck your life",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "live",
+          "phonemes": [
+            "L",
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "better",
+          "phonemes": [
+            "B",
+            "EH1",
+            "T",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 T ER0"
+        },
+        {
+          "text": "life",
+          "phonemes": [
+            "L",
+            "AY1",
+            "F"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 F"
+        },
+        {
+          "text": "i'm",
+          "phonemes": [
+            "AY1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 M"
+        },
+        {
+          "text": "rollin",
+          "phonemes": [
+            "R",
+            "AA1",
+            "L",
+            "IH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 L IH0 N"
+        },
+        {
+          "text": "several",
+          "phonemes": [
+            "S",
+            "EH1",
+            "V",
+            "R",
+            "AH0",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 V R AH0 L"
+        },
+        {
+          "text": "dice",
+          "phonemes": [
+            "D",
+            "AY1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 S"
+        },
+        {
+          "text": "fuck",
+          "phonemes": [
+            "F",
+            "AH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 K"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "life",
+          "phonemes": [
+            "L",
+            "AY1",
+            "F"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 F"
+        }
+      ],
+      "rhyme_id": "AL"
+    },
+    {
+      "line_id": 42,
+      "text": "i-i got loyalty got royalty inside my dna",
+      "words": [
+        {
+          "text": "i-i",
+          "phonemes": [
+            "I-I"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "-I"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "loyalty",
+          "phonemes": [
+            "L",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "royalty",
+          "phonemes": [
+            "R",
+            "OY1",
+            "AH0",
+            "L",
+            "T",
+            "IY0"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "OY1 AH0 L T IY0"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "AM"
+    },
+    {
+      "line_id": 43,
+      "text": "i live a be- fuck your life",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "live",
+          "phonemes": [
+            "L",
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "be",
+          "phonemes": [
+            "B",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "fuck",
+          "phonemes": [
+            "F",
+            "AH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 K"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "life",
+          "phonemes": [
+            "L",
+            "AY1",
+            "F"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 F"
+        }
+      ],
+      "rhyme_id": "AL"
+    },
+    {
+      "line_id": 44,
+      "text": "five four three two one",
+      "words": [
+        {
+          "text": "five",
+          "phonemes": [
+            "F",
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "four",
+          "phonemes": [
+            "F",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "three",
+          "phonemes": [
+            "TH",
+            "R",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "two",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "one",
+          "phonemes": [
+            "W",
+            "AH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 N"
+        }
+      ],
+      "rhyme_id": "W"
+    },
+    {
+      "line_id": 45,
+      "text": "this is my heritage all i'm inheritin'",
+      "words": [
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "heritage",
+          "phonemes": [
+            "HH",
+            "EH1",
+            "R",
+            "AH0",
+            "T",
+            "AH0",
+            "JH"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 R AH0 T AH0 JH"
+        },
+        {
+          "text": "all",
+          "phonemes": [
+            "AO1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 L"
+        },
+        {
+          "text": "i'm",
+          "phonemes": [
+            "AY1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 M"
+        },
+        {
+          "text": "inheritin",
+          "phonemes": [
+            "INHERITIN"
+          ],
+          "syllables": 4,
+          "stress": "",
+          "rhyme_ending": "IN"
+        }
+      ],
+      "rhyme_id": "AN"
+    },
+    {
+      "line_id": 46,
+      "text": "money and power the mecca of marriages",
+      "words": [
+        {
+          "text": "money",
+          "phonemes": [
+            "M",
+            "AH1",
+            "N",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 N IY0"
+        },
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "power",
+          "phonemes": [
+            "P",
+            "AW1",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AW1 ER0"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "mecca",
+          "phonemes": [
+            "M",
+            "EH1",
+            "K",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 K AH0"
+        },
+        {
+          "text": "of",
+          "phonemes": [
+            "AH1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 V"
+        },
+        {
+          "text": "marriages",
+          "phonemes": [
+            "M",
+            "EH1",
+            "R",
+            "IH0",
+            "JH",
+            "IH0",
+            "Z"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "EH1 R IH0 JH IH0 Z"
+        }
+      ],
+      "rhyme_id": "AO"
+    },
+    {
+      "line_id": 47,
+      "text": "tell me somethin'",
+      "words": [
+        {
+          "text": "tell",
+          "phonemes": [
+            "T",
+            "EH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 L"
+        },
+        {
+          "text": "me",
+          "phonemes": [
+            "M",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "somethin",
+          "phonemes": [
+            "SOMETHIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        }
+      ],
+      "rhyme_id": "AP"
+    },
+    {
+      "line_id": 48,
+      "text": "you motherfuckers can't tell me nothin'",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "motherfuckers",
+          "phonemes": [
+            "M",
+            "AH1",
+            "DH",
+            "ER0",
+            "F",
+            "AH2",
+            "K",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 4,
+          "stress": "1020",
+          "rhyme_ending": "AH2 K ER0 Z"
+        },
+        {
+          "text": "can't",
+          "phonemes": [
+            "K",
+            "AE1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 N T"
+        },
+        {
+          "text": "tell",
+          "phonemes": [
+            "T",
+            "EH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 L"
+        },
+        {
+          "text": "me",
+          "phonemes": [
+            "M",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "nothin",
+          "phonemes": [
+            "N",
+            "AA1",
+            "TH",
+            "IH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 TH IH0 N"
+        }
+      ],
+      "rhyme_id": "AQ"
+    },
+    {
+      "line_id": 49,
+      "text": "i'd rather die than to listen to you",
+      "words": [
+        {
+          "text": "i'd",
+          "phonemes": [
+            "AY1",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "rather",
+          "phonemes": [
+            "R",
+            "AE1",
+            "DH",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 DH ER0"
+        },
+        {
+          "text": "die",
+          "phonemes": [
+            "D",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "than",
+          "phonemes": [
+            "DH",
+            "AE1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 N"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "listen",
+          "phonemes": [
+            "L",
+            "IH1",
+            "S",
+            "AH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 S AH0 N"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        }
+      ],
+      "rhyme_id": "AR"
+    },
+    {
+      "line_id": 50,
+      "text": "my dna not for imitation",
+      "words": [
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        },
+        {
+          "text": "not",
+          "phonemes": [
+            "N",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "for",
+          "phonemes": [
+            "F",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "imitation",
+          "phonemes": [
+            "IH2",
+            "M",
+            "AH0",
+            "T",
+            "EY1",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 4,
+          "stress": "2010",
+          "rhyme_ending": "EY1 SH AH0 N"
+        }
+      ],
+      "rhyme_id": "F"
+    },
+    {
+      "line_id": 51,
+      "text": "your dna an abomination",
+      "words": [
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        },
+        {
+          "text": "an",
+          "phonemes": [
+            "AE1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 N"
+        },
+        {
+          "text": "abomination",
+          "phonemes": [
+            "AH0",
+            "B",
+            "AA2",
+            "M",
+            "AH0",
+            "N",
+            "EY1",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 5,
+          "stress": "02010",
+          "rhyme_ending": "EY1 SH AH0 N"
+        }
+      ],
+      "rhyme_id": "F"
+    },
+    {
+      "line_id": 52,
+      "text": "this how it is when you in the matrix",
+      "words": [
+        {
+          "text": "this",
+          "phonemes": [
+            "DH",
+            "IH1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 S"
+        },
+        {
+          "text": "how",
+          "phonemes": [
+            "HH",
+            "AW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1"
+        },
+        {
+          "text": "it",
+          "phonemes": [
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "when",
+          "phonemes": [
+            "W",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "matrix",
+          "phonemes": [
+            "M",
+            "EY1",
+            "T",
+            "R",
+            "IH0",
+            "K",
+            "S"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EY1 T R IH0 K S"
+        }
+      ],
+      "rhyme_id": "AS"
+    },
+    {
+      "line_id": 53,
+      "text": "dodgin' bullets reapin' what you sow",
+      "words": [
+        {
+          "text": "dodgin",
+          "phonemes": [
+            "DODGIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "bullets",
+          "phonemes": [
+            "B",
+            "UH1",
+            "L",
+            "AH0",
+            "T",
+            "S"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "UH1 L AH0 T S"
+        },
+        {
+          "text": "reapin",
+          "phonemes": [
+            "REAPIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "what",
+          "phonemes": [
+            "W",
+            "AH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 T"
+        },
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "sow",
+          "phonemes": [
+            "S",
+            "AW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1"
+        }
+      ],
+      "rhyme_id": "AT"
+    },
+    {
+      "line_id": 54,
+      "text": "and stackin' up the footage livin' on the go",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "stackin",
+          "phonemes": [
+            "STACKIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "up",
+          "phonemes": [
+            "AH1",
+            "P"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 P"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "footage",
+          "phonemes": [
+            "F",
+            "UH1",
+            "T",
+            "IH0",
+            "JH"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "UH1 T IH0 JH"
+        },
+        {
+          "text": "livin",
+          "phonemes": [
+            "LIVIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "go",
+          "phonemes": [
+            "G",
+            "OW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1"
+        }
+      ],
+      "rhyme_id": "AU"
+    },
+    {
+      "line_id": 55,
+      "text": "and sleepin' in a villa",
+      "words": [
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "sleepin",
+          "phonemes": [
+            "SLEEPIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "villa",
+          "phonemes": [
+            "V",
+            "IH1",
+            "L",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 L AH0"
+        }
+      ],
+      "rhyme_id": "AV"
+    },
+    {
+      "line_id": 56,
+      "text": "sippin' from a grammy walkin' in the buildin'",
+      "words": [
+        {
+          "text": "sippin",
+          "phonemes": [
+            "SIPPIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "from",
+          "phonemes": [
+            "F",
+            "R",
+            "AH1",
+            "M"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 M"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "grammy",
+          "phonemes": [
+            "G",
+            "R",
+            "AE1",
+            "M",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 M IY0"
+        },
+        {
+          "text": "walkin",
+          "phonemes": [
+            "WALKIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "buildin",
+          "phonemes": [
+            "BUILDIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        }
+      ],
+      "rhyme_id": "AW"
+    },
+    {
+      "line_id": 57,
+      "text": "diamond in the ceilin' marble on the floors",
+      "words": [
+        {
+          "text": "diamond",
+          "phonemes": [
+            "D",
+            "AY1",
+            "M",
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AY1 M AH0 N D"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "ceilin",
+          "phonemes": [
+            "CEILIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "marble",
+          "phonemes": [
+            "M",
+            "AA1",
+            "R",
+            "B",
+            "AH0",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 R B AH0 L"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "floors",
+          "phonemes": [
+            "F",
+            "L",
+            "AO1",
+            "R",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R Z"
+        }
+      ],
+      "rhyme_id": "AJ"
+    },
+    {
+      "line_id": 58,
+      "text": "beach inside the window peekin' out the window",
+      "words": [
+        {
+          "text": "beach",
+          "phonemes": [
+            "B",
+            "IY1",
+            "CH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 CH"
+        },
+        {
+          "text": "inside",
+          "phonemes": [
+            "IH2",
+            "N",
+            "S",
+            "AY1",
+            "D"
+          ],
+          "syllables": 2,
+          "stress": "21",
+          "rhyme_ending": "AY1 D"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "window",
+          "phonemes": [
+            "W",
+            "IH1",
+            "N",
+            "D",
+            "OW0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 N D OW0"
+        },
+        {
+          "text": "peekin",
+          "phonemes": [
+            "PEEKIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "out",
+          "phonemes": [
+            "AW1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AW1 T"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "window",
+          "phonemes": [
+            "W",
+            "IH1",
+            "N",
+            "D",
+            "OW0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 N D OW0"
+        }
+      ],
+      "rhyme_id": "AX"
+    },
+    {
+      "line_id": 59,
+      "text": "baby in the pool godfather goals",
+      "words": [
+        {
+          "text": "baby",
+          "phonemes": [
+            "B",
+            "EY1",
+            "B",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EY1 B IY0"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "pool",
+          "phonemes": [
+            "P",
+            "UW1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1 L"
+        },
+        {
+          "text": "godfather",
+          "phonemes": [
+            "G",
+            "AA1",
+            "D",
+            "F",
+            "AA2",
+            "DH",
+            "ER0"
+          ],
+          "syllables": 3,
+          "stress": "120",
+          "rhyme_ending": "AA2 DH ER0"
+        },
+        {
+          "text": "goals",
+          "phonemes": [
+            "G",
+            "OW1",
+            "L",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 L Z"
+        }
+      ],
+      "rhyme_id": "AY"
+    },
+    {
+      "line_id": 60,
+      "text": "only lord knows i've been goin' hammer",
+      "words": [
+        {
+          "text": "only",
+          "phonemes": [
+            "OW1",
+            "N",
+            "L",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OW1 N L IY0"
+        },
+        {
+          "text": "lord",
+          "phonemes": [
+            "L",
+            "AO1",
+            "R",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R D"
+        },
+        {
+          "text": "knows",
+          "phonemes": [
+            "N",
+            "OW1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 Z"
+        },
+        {
+          "text": "i've",
+          "phonemes": [
+            "AY1",
+            "V"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 V"
+        },
+        {
+          "text": "been",
+          "phonemes": [
+            "B",
+            "IH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 N"
+        },
+        {
+          "text": "goin",
+          "phonemes": [
+            "G",
+            "OY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OY1 N"
+        },
+        {
+          "text": "hammer",
+          "phonemes": [
+            "HH",
+            "AE1",
+            "M",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 M ER0"
+        }
+      ],
+      "rhyme_id": "AZ"
+    },
+    {
+      "line_id": 61,
+      "text": "dodgin' paparazzi freakin' through the cameras",
+      "words": [
+        {
+          "text": "dodgin",
+          "phonemes": [
+            "DODGIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "paparazzi",
+          "phonemes": [
+            "P",
+            "AA2",
+            "P",
+            "AA0",
+            "R",
+            "AO1",
+            "Z",
+            "IY2"
+          ],
+          "syllables": 4,
+          "stress": "2012",
+          "rhyme_ending": "IY2"
+        },
+        {
+          "text": "freakin",
+          "phonemes": [
+            "FREAKIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "through",
+          "phonemes": [
+            "TH",
+            "R",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "cameras",
+          "phonemes": [
+            "K",
+            "AE1",
+            "M",
+            "ER0",
+            "AH0",
+            "Z"
+          ],
+          "syllables": 3,
+          "stress": "100",
+          "rhyme_ending": "AE1 M ER0 AH0 Z"
+        }
+      ],
+      "rhyme_id": "BA"
+    },
+    {
+      "line_id": 62,
+      "text": "eat at four daughters brock wearin' sandals",
+      "words": [
+        {
+          "text": "eat",
+          "phonemes": [
+            "IY1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 T"
+        },
+        {
+          "text": "at",
+          "phonemes": [
+            "AE1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AE1 T"
+        },
+        {
+          "text": "four",
+          "phonemes": [
+            "F",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "daughters",
+          "phonemes": [
+            "D",
+            "AO1",
+            "T",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AO1 T ER0 Z"
+        },
+        {
+          "text": "brock",
+          "phonemes": [
+            "B",
+            "R",
+            "AA1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 K"
+        },
+        {
+          "text": "wearin",
+          "phonemes": [
+            "WEARIN"
+          ],
+          "syllables": 3,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "sandals",
+          "phonemes": [
+            "S",
+            "AE1",
+            "N",
+            "D",
+            "AH0",
+            "L",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AE1 N D AH0 L Z"
+        }
+      ],
+      "rhyme_id": "AY"
+    },
+    {
+      "line_id": 63,
+      "text": "yoga on a monday stretchin' to nirvana",
+      "words": [
+        {
+          "text": "yoga",
+          "phonemes": [
+            "Y",
+            "OW1",
+            "G",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "OW1 G AH0"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "monday",
+          "phonemes": [
+            "M",
+            "AH1",
+            "N",
+            "D",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 N D IY0"
+        },
+        {
+          "text": "stretchin",
+          "phonemes": [
+            "STRETCHIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "nirvana",
+          "phonemes": [
+            "N",
+            "IH0",
+            "R",
+            "V",
+            "AA1",
+            "N",
+            "AH0"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "AA1 N AH0"
+        }
+      ],
+      "rhyme_id": "BB"
+    },
+    {
+      "line_id": 64,
+      "text": "watchin' all the snakes curvin' all the fakes",
+      "words": [
+        {
+          "text": "watchin",
+          "phonemes": [
+            "WATCHIN"
+          ],
+          "syllables": 2,
+          "stress": "",
+          "rhyme_ending": "IN"
+        },
+        {
+          "text": "all",
+          "phonemes": [
+            "AO1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 L"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "snakes",
+          "phonemes": [
+            "S",
+            "N",
+            "EY1",
+            "K",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 K S"
+        },
+        {
+          "text": "curvin",
+          "phonemes": [
+            "K",
+            "ER1",
+            "V",
+            "IH0",
+            "N"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 V IH0 N"
+        },
+        {
+          "text": "all",
+          "phonemes": [
+            "AO1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 L"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "fakes",
+          "phonemes": [
+            "F",
+            "EY1",
+            "K",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 K S"
+        }
+      ],
+      "rhyme_id": "AS"
+    },
+    {
+      "line_id": 65,
+      "text": "phone never on i don't conversate",
+      "words": [
+        {
+          "text": "phone",
+          "phonemes": [
+            "F",
+            "OW1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N"
+        },
+        {
+          "text": "never",
+          "phonemes": [
+            "N",
+            "EH1",
+            "V",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 V ER0"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "don't",
+          "phonemes": [
+            "D",
+            "OW1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N T"
+        },
+        {
+          "text": "conversate",
+          "phonemes": [
+            "CONVERSATE"
+          ],
+          "syllables": 4,
+          "stress": "",
+          "rhyme_ending": "TE"
+        }
+      ],
+      "rhyme_id": "BC"
+    },
+    {
+      "line_id": 66,
+      "text": "i don't compromise i just penetrate",
+      "words": [
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "don't",
+          "phonemes": [
+            "D",
+            "OW1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "OW1 N T"
+        },
+        {
+          "text": "compromise",
+          "phonemes": [
+            "K",
+            "AA1",
+            "M",
+            "P",
+            "R",
+            "AH0",
+            "M",
+            "AY2",
+            "Z"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "AY2 Z"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "just",
+          "phonemes": [
+            "JH",
+            "AH1",
+            "S",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 S T"
+        },
+        {
+          "text": "penetrate",
+          "phonemes": [
+            "P",
+            "EH1",
+            "N",
+            "AH0",
+            "T",
+            "R",
+            "EY2",
+            "T"
+          ],
+          "syllables": 3,
+          "stress": "102",
+          "rhyme_ending": "EY2 T"
+        }
+      ],
+      "rhyme_id": "BD"
+    },
+    {
+      "line_id": 67,
+      "text": "sex money murder these are the breaks",
+      "words": [
+        {
+          "text": "sex",
+          "phonemes": [
+            "S",
+            "EH1",
+            "K",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 K S"
+        },
+        {
+          "text": "money",
+          "phonemes": [
+            "M",
+            "AH1",
+            "N",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 N IY0"
+        },
+        {
+          "text": "murder",
+          "phonemes": [
+            "M",
+            "ER1",
+            "D",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 D ER0"
+        },
+        {
+          "text": "these",
+          "phonemes": [
+            "DH",
+            "IY1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 Z"
+        },
+        {
+          "text": "are",
+          "phonemes": [
+            "AA1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 R"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "breaks",
+          "phonemes": [
+            "B",
+            "R",
+            "EY1",
+            "K",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 K S"
+        }
+      ],
+      "rhyme_id": "AS"
+    },
+    {
+      "line_id": 68,
+      "text": "these are the times level number nine",
+      "words": [
+        {
+          "text": "these",
+          "phonemes": [
+            "DH",
+            "IY1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 Z"
+        },
+        {
+          "text": "are",
+          "phonemes": [
+            "AA1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 R"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "times",
+          "phonemes": [
+            "T",
+            "AY1",
+            "M",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 M Z"
+        },
+        {
+          "text": "level",
+          "phonemes": [
+            "L",
+            "EH1",
+            "V",
+            "AH0",
+            "L"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 V AH0 L"
+        },
+        {
+          "text": "number",
+          "phonemes": [
+            "N",
+            "AH1",
+            "M",
+            "B",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 M B ER0"
+        },
+        {
+          "text": "nine",
+          "phonemes": [
+            "N",
+            "AY1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1 N"
+        }
+      ],
+      "rhyme_id": "BE"
+    },
+    {
+      "line_id": 69,
+      "text": "look up in the sky ten is on the way",
+      "words": [
+        {
+          "text": "look",
+          "phonemes": [
+            "L",
+            "UH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UH1 K"
+        },
+        {
+          "text": "up",
+          "phonemes": [
+            "AH1",
+            "P"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AH1 P"
+        },
+        {
+          "text": "in",
+          "phonemes": [
+            "IH0",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "IH0 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "sky",
+          "phonemes": [
+            "S",
+            "K",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "ten",
+          "phonemes": [
+            "T",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "is",
+          "phonemes": [
+            "IH1",
+            "Z"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 Z"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "way",
+          "phonemes": [
+            "W",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "BF"
+    },
+    {
+      "line_id": 70,
+      "text": "sentence on the way killings on the way",
+      "words": [
+        {
+          "text": "sentence",
+          "phonemes": [
+            "S",
+            "EH1",
+            "N",
+            "T",
+            "AH0",
+            "N",
+            "S"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "EH1 N T AH0 N S"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "way",
+          "phonemes": [
+            "W",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        },
+        {
+          "text": "killings",
+          "phonemes": [
+            "K",
+            "IH1",
+            "L",
+            "IH0",
+            "NG",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 L IH0 NG Z"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "way",
+          "phonemes": [
+            "W",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "BG"
+    },
+    {
+      "line_id": 71,
+      "text": "motherfucker i got winners on the way",
+      "words": [
+        {
+          "text": "motherfucker",
+          "phonemes": [
+            "M",
+            "AH1",
+            "DH",
+            "ER0",
+            "F",
+            "AH2",
+            "K",
+            "ER0"
+          ],
+          "syllables": 4,
+          "stress": "1020",
+          "rhyme_ending": "AH2 K ER0"
+        },
+        {
+          "text": "i",
+          "phonemes": [
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "got",
+          "phonemes": [
+            "G",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "winners",
+          "phonemes": [
+            "W",
+            "IH1",
+            "N",
+            "ER0",
+            "Z"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 N ER0 Z"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "way",
+          "phonemes": [
+            "W",
+            "EY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "BH"
+    },
+    {
+      "line_id": 72,
+      "text": "you ain't shit without a body on your belt",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "ain't",
+          "phonemes": [
+            "EY1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 N T"
+        },
+        {
+          "text": "shit",
+          "phonemes": [
+            "SH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "without",
+          "phonemes": [
+            "W",
+            "IH0",
+            "TH",
+            "AW1",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AW1 T"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "body",
+          "phonemes": [
+            "B",
+            "AA1",
+            "D",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 D IY0"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "belt",
+          "phonemes": [
+            "B",
+            "EH1",
+            "L",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 L T"
+        }
+      ],
+      "rhyme_id": "BI"
+    },
+    {
+      "line_id": 73,
+      "text": "you ain't shit without a ticket on your plate",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "ain't",
+          "phonemes": [
+            "EY1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 N T"
+        },
+        {
+          "text": "shit",
+          "phonemes": [
+            "SH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "without",
+          "phonemes": [
+            "W",
+            "IH0",
+            "TH",
+            "AW1",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AW1 T"
+        },
+        {
+          "text": "a",
+          "phonemes": [
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0"
+        },
+        {
+          "text": "ticket",
+          "phonemes": [
+            "T",
+            "IH1",
+            "K",
+            "AH0",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "IH1 K AH0 T"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "plate",
+          "phonemes": [
+            "P",
+            "L",
+            "EY1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 T"
+        }
+      ],
+      "rhyme_id": "AC"
+    },
+    {
+      "line_id": 74,
+      "text": "you ain't sick enough to pull it on yourself",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "ain't",
+          "phonemes": [
+            "EY1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 N T"
+        },
+        {
+          "text": "sick",
+          "phonemes": [
+            "S",
+            "IH1",
+            "K"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 K"
+        },
+        {
+          "text": "enough",
+          "phonemes": [
+            "IH0",
+            "N",
+            "AH1",
+            "F"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AH1 F"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "pull",
+          "phonemes": [
+            "P",
+            "UH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UH1 L"
+        },
+        {
+          "text": "it",
+          "phonemes": [
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "on",
+          "phonemes": [
+            "AA1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 N"
+        },
+        {
+          "text": "yourself",
+          "phonemes": [
+            "Y",
+            "ER0",
+            "S",
+            "EH1",
+            "L",
+            "F"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "EH1 L F"
+        }
+      ],
+      "rhyme_id": "BJ"
+    },
+    {
+      "line_id": 75,
+      "text": "you ain't rich enough to hit the lot and skate",
+      "words": [
+        {
+          "text": "you",
+          "phonemes": [
+            "Y",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "ain't",
+          "phonemes": [
+            "EY1",
+            "N",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 N T"
+        },
+        {
+          "text": "rich",
+          "phonemes": [
+            "R",
+            "IH1",
+            "CH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 CH"
+        },
+        {
+          "text": "enough",
+          "phonemes": [
+            "IH0",
+            "N",
+            "AH1",
+            "F"
+          ],
+          "syllables": 2,
+          "stress": "01",
+          "rhyme_ending": "AH1 F"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "hit",
+          "phonemes": [
+            "HH",
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "lot",
+          "phonemes": [
+            "L",
+            "AA1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AA1 T"
+        },
+        {
+          "text": "and",
+          "phonemes": [
+            "AH0",
+            "N",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "AH0 N D"
+        },
+        {
+          "text": "skate",
+          "phonemes": [
+            "S",
+            "K",
+            "EY1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 T"
+        }
+      ],
+      "rhyme_id": "AC"
+    },
+    {
+      "line_id": 76,
+      "text": "tell me when destruction gonna be my fate",
+      "words": [
+        {
+          "text": "tell",
+          "phonemes": [
+            "T",
+            "EH1",
+            "L"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 L"
+        },
+        {
+          "text": "me",
+          "phonemes": [
+            "M",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "when",
+          "phonemes": [
+            "W",
+            "EH1",
+            "N"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 N"
+        },
+        {
+          "text": "destruction",
+          "phonemes": [
+            "D",
+            "IH0",
+            "S",
+            "T",
+            "R",
+            "AH1",
+            "K",
+            "SH",
+            "AH0",
+            "N"
+          ],
+          "syllables": 3,
+          "stress": "010",
+          "rhyme_ending": "AH1 K SH AH0 N"
+        },
+        {
+          "text": "gonna",
+          "phonemes": [
+            "G",
+            "AA1",
+            "N",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 N AH0"
+        },
+        {
+          "text": "be",
+          "phonemes": [
+            "B",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "my",
+          "phonemes": [
+            "M",
+            "AY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AY1"
+        },
+        {
+          "text": "fate",
+          "phonemes": [
+            "F",
+            "EY1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 T"
+        }
+      ],
+      "rhyme_id": "AC"
+    },
+    {
+      "line_id": 77,
+      "text": "gonna be your fate gonna be our faith",
+      "words": [
+        {
+          "text": "gonna",
+          "phonemes": [
+            "G",
+            "AA1",
+            "N",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 N AH0"
+        },
+        {
+          "text": "be",
+          "phonemes": [
+            "B",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "your",
+          "phonemes": [
+            "Y",
+            "AO1",
+            "R"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "AO1 R"
+        },
+        {
+          "text": "fate",
+          "phonemes": [
+            "F",
+            "EY1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 T"
+        },
+        {
+          "text": "gonna",
+          "phonemes": [
+            "G",
+            "AA1",
+            "N",
+            "AH0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AA1 N AH0"
+        },
+        {
+          "text": "be",
+          "phonemes": [
+            "B",
+            "IY1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1"
+        },
+        {
+          "text": "our",
+          "phonemes": [
+            "AW1",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AW1 ER0"
+        },
+        {
+          "text": "faith",
+          "phonemes": [
+            "F",
+            "EY1",
+            "TH"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EY1 TH"
+        }
+      ],
+      "rhyme_id": "BK"
+    },
+    {
+      "line_id": 78,
+      "text": "peace to the world let it rotate",
+      "words": [
+        {
+          "text": "peace",
+          "phonemes": [
+            "P",
+            "IY1",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IY1 S"
+        },
+        {
+          "text": "to",
+          "phonemes": [
+            "T",
+            "UW1"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "UW1"
+        },
+        {
+          "text": "the",
+          "phonemes": [
+            "DH",
+            "AH0"
+          ],
+          "syllables": 1,
+          "stress": "0",
+          "rhyme_ending": "DH AH0"
+        },
+        {
+          "text": "world",
+          "phonemes": [
+            "W",
+            "ER1",
+            "L",
+            "D"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "ER1 L D"
+        },
+        {
+          "text": "let",
+          "phonemes": [
+            "L",
+            "EH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 T"
+        },
+        {
+          "text": "it",
+          "phonemes": [
+            "IH1",
+            "T"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "IH1 T"
+        },
+        {
+          "text": "rotate",
+          "phonemes": [
+            "R",
+            "OW1",
+            "T",
+            "EY2",
+            "T"
+          ],
+          "syllables": 2,
+          "stress": "12",
+          "rhyme_ending": "EY2 T"
+        }
+      ],
+      "rhyme_id": "BD"
+    },
+    {
+      "line_id": 79,
+      "text": "sex money murder our dna",
+      "words": [
+        {
+          "text": "sex",
+          "phonemes": [
+            "S",
+            "EH1",
+            "K",
+            "S"
+          ],
+          "syllables": 1,
+          "stress": "1",
+          "rhyme_ending": "EH1 K S"
+        },
+        {
+          "text": "money",
+          "phonemes": [
+            "M",
+            "AH1",
+            "N",
+            "IY0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AH1 N IY0"
+        },
+        {
+          "text": "murder",
+          "phonemes": [
+            "M",
+            "ER1",
+            "D",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "ER1 D ER0"
+        },
+        {
+          "text": "our",
+          "phonemes": [
+            "AW1",
+            "ER0"
+          ],
+          "syllables": 2,
+          "stress": "10",
+          "rhyme_ending": "AW1 ER0"
+        },
+        {
+          "text": "dna",
+          "phonemes": [
+            "D",
+            "IY1",
+            "EH2",
+            "N",
+            "EY1"
+          ],
+          "syllables": 3,
+          "stress": "121",
+          "rhyme_ending": "EY1"
+        }
+      ],
+      "rhyme_id": "BL"
+    }
+  ]
+}
