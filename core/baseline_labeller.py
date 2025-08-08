@@ -1,4 +1,10 @@
 import json
+import csv
+from collections import Counter
+import Levenshtein
+
+
+master_feature_list = []
 
 
 ### -------------------------------
@@ -25,6 +31,7 @@ def collect_last_words(song):
             "phonemes": last_word['phonemes'],
             "syllables": last_word['syllables'],
             "stress": last_word['stress'],
+            "rhyme_ending": last_word['rhyme_ending'],
             "rhyme_id": line['rhyme_id'],
         }
 
@@ -62,51 +69,127 @@ def generate_pairs(last_words):
 
     return pairs
 
+
 ### -------------------------------
 # 4. Compute Features
 ### -------------------------------
 def compute_features(pairs):
     features = []
     for pair in pairs:
-        w1 = pair['word1_rhyme_ending']
-        w2 = pair['word2_rhyme_ending']
-        if(w1==w2):
-            exact_match = 1
-        else:
-            exact_match = 0
+        w1 = pair['word1_rhyme_ending'].lower().strip()
+        w2 = pair['word2_rhyme_ending'].lower().strip()
+        p1 = ''.join(pair.get('word1_phonemes', []))
+        p2 = ''.join(pair.get('word2_phonemes', []))
+        s1 = pair.get('word1_stress', '')
+        s2 = pair.get('word2_stress', '')
+        syl1 = int(pair.get('word1_syllables') or 0)
+        syl2 = int(pair.get('word2_syllables') or 0)
+
+
+        # Exact match
+        exact_match = 1 if w1 == w2 else 0
+
+        # Minimum ending length
         ending_length_min = min(len(w1), len(w2))
 
-        #ADD PHENOME EDIT DISTANCE
-        #ADD STRESS PATTERN MATCH
-        #ADD SYLLABLE COUNT DIFFERENCE FOR BETTER NUANCES
-        
+        # Phoneme edit distance (normalized similarity)
+        if p1 and p2:
+            max_len = max(len(p1), len(p2))
+            phoneme_similarity = 1 - (Levenshtein.distance(p1, p2) / max_len) if max_len > 0 else 0
+        else:
+            phoneme_similarity = 0.0
+
+
+        # Stress pattern match (binary)
+        stress_match = 1 if s1 and s2 and s1 == s2 else 0
+
+        # Stress pattern sequence similarity
+        if s1 and s2:
+            stress_similarity = 1 - (Levenshtein.distance(s1, s2) / max(len(s1), len(s2)))
+        else:
+            stress_similarity = 0.0
+
+        # Syllable count difference
+        syllable_diff = abs(syl1 - syl2)
+
         features.append({
             'exact_match': exact_match,
             'ending_length_min': ending_length_min,
+            'phoneme_similarity': phoneme_similarity,
+            'stress_match': stress_match,
+            'stress_similarity': stress_similarity,
+            'syllable_diff': syllable_diff,
             'label': pair['label']
         })
-        
+    
+    return features
+
 
 
 ### -------------------------------
 # 5. Store in List
 ### -------------------------------
-def store_in_list():
+def store_in_list(features):
+    global master_feature_list
+    master_feature_list.extend(features)
+
+
     
 
 
 ### -------------------------------
 # 6. Save to CSV
 ### -------------------------------
-def save_to_csv(pairs, output_path):
+def save_to_csv(features, output_path):
+    if not features:
+        print("NO FEATURES TO SAVE")
+        return
     
+    field_names = features[0].keys()
+
+    with open(output_path, mode='w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=field_names)
+        writer.writeheader()
+        writer.writerows(features)
+    
+    print(f"✅ Saved {len(features)} rows to {output_path}")
 
 
 ### -------------------------------
 # 7. Check Balance
 ### -------------------------------
-def check_balance():
+def check_balance(features):
+    if not features:
+        print("NO FEATURES TO CHECK")
+        return
+
+    labels = [f['label'] for f in features]
+    counts = Counter(labels)
     
+    total = sum(counts.values())
+    for label, count in counts.items():
+        percentage = (count / total) * 100
+        print(f"Label {label}: {count} samples ({percentage:.2f}%)")
+
+
+
+### -------------------------------
+# HELPER. For verifying rhyme stats
+### -------------------------------
+def rhyme_stats_per_song(songs):
+    for idx, song in enumerate(songs):
+        last_words = collect_last_words(song)
+        pairs = generate_pairs(last_words)
+        
+        rhyme_count = sum(1 for p in pairs if p['label'] == 1)
+        non_rhyme_count = len(pairs) - rhyme_count
+        total = len(pairs)
+        
+        rhyme_percent = (rhyme_count / total * 100) if total > 0 else 0
+        
+        print(f"Song {idx+1}: Total pairs={total}, Rhymes={rhyme_count} ({rhyme_percent:.2f}%)")
+
+
 
 ### -------------------------------
 # 8. Main Pipeline
@@ -116,17 +199,18 @@ def main():
     output_path = "./assets/rhyme_pairs.csv"
 
     songs = load_jsonl(input_path)
+    rhyme_stats_per_song(songs)
     all_pairs = []
 
     for song in songs:
         last_words = collect_last_words(song)
         pairs = generate_pairs(last_words)
-        for w1, w2, label in pairs:
-            features = compute_features(w1, w2)
-            all_pairs.append((*features, label))
+        features = compute_features(pairs)
+        all_pairs.extend(features)
 
-    balanced_pairs = check_balance(all_pairs)
-    save_to_csv(balanced_pairs, output_path)
+    check_balance(all_pairs)
+    save_to_csv(all_pairs, output_path)
+
 
 
 
