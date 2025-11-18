@@ -21,27 +21,65 @@ Non-MVP (later):
 – Recommendations.
 – Versioned analysis pipeline.
 
-Project architecture:
+# Project architecture:
 
-Apps:
+## Apps
 
-core: settings, middleware, utilities.
+### accounts
+- Custom user model
+- Authentication views (signup, login, logout)
+- Account management
+  - Change username
+  - Change password
+  - Update profile picture
+  - Delete account
+- User–song relations
+  - Saved songs
+  - Search history
+- Admin customizations for users
+  - Activate/deactivate user
+  - Profile management
 
-accounts: user model, auth flows, quotas.
+### music
+- Core domain models
+  - Artist
+  - Song
+  - Lyrics
+  - AnalysisResult (versioned)
+- Fetching pipeline
+  - Normalize input
+  - Check DB
+  - Check Redis cache
+  - Lock to avoid duplicate external API calls
+  - Fetch lyrics from lyricsgenius
+  - Persist song + lyrics
+- Analysis pipeline
+  - Profanity detection
+  - Unique-word counts
+  - Lexical diversity
+  - Rhyme detection (basic)
+  - Readability metrics
+  - Store results per version
+- Visualization
+  - Build visualization JSON
+  - Cache for quick re-render
+- Search + retrieval views/API
+  - Search endpoint
+  - Song detail endpoint
+  - Return cached analysis and visualization
+- Leaderboard (lives here)
+  - Aggregated metrics by artist
+  - Sorting by profanity, unique words, etc.
+  - Read-only leaderboard endpoints
+- Admin customizations
+  - Song, artist, lyrics, analysis admin
+  - Filters for missing analysis
+  - Bulk re-analysis
+  - Cache/lock inspection tools
 
-catalog: Song, Artist, AnalysisResult models, caching logic, lyrics retrieval.
-
-analysis: text-processing code, profanity lists, NLP utilities.
-
-api: endpoints for search, results, and user actions.
-
-dashboard (optional later): staff tools.
 
 Models:
-Artist(id, name, normalized_name, created_at)
-Song(id, artist FK, title, normalized_title, lyrics_text, lyrics_fetched_at, api_source, cache_version, created_at)
-AnalysisResult(id, song FK, version, profanity_count, unique_word_count, lexical_diversity, readability_score, computed_at)
-UserSavedItem(id, user FK, song FK, saved_at)
+
 
 Caching strategy:
 Redis keys:
