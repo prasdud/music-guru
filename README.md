@@ -13,7 +13,7 @@ Core features:
 – Public caching so repeated searches avoid API calls.
 – Basic auth: signup, login, logout.
 – Simple UI for searching and viewing results.
-- Store all (maybe some) statistics in a global leaderboard that can be sorted by, ex- artist with most unique words, most profane words etc
+– Store all (maybe some) statistics in a global leaderboard that can be sorted by, ex- artist with most unique words, most profane words etc
 
 Non-MVP (later):
 – Background workers for heavy analysis.
