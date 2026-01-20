@@ -1,6 +1,9 @@
 # music-guru
 The ultimate music analyser software from profanity detection to in-depth rhyme scheme analysis plus a little extra.
 
+# Status, Dev Notes
+Active project, however its a weekend project so not actively working on it. I dont want it to be a CRUD app, so i will be using this repo for research into Rhyme Scheme analysis. Then maybe make it into a all in one platform for music analysis.
+
 MVP scope:
 
 Core features:
